@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Александра Решетникова](https://up.htmlacademy.ru/htmlcss/35/user/1918335).
-* Наставник: `Неизвестно`.
+* Наставник: [Олег Цыганов](https://htmlacademy.ru/profile/olegtsyganov).
 
 ---
 
